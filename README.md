@@ -107,7 +107,19 @@ Google colab  notebook MODEL_TRAINING.ipynb
 - **Institution:** Central University of Tamil Nadu  
 - **Internship Location:** IIIT Dharwad  
 - **Guide:** Dr. Pavan Kumar C
+🏛️ Internship at IIIT Dharwad
+This project was completed as part of a summer internship at the Indian Institute of Information Technology (IIIT) Dharwad, Karnataka, India.
+During this internship:
 
+I worked under the guidance of Dr. Pavan Kumar C, Assistant Professor.
+
+The focus was on evaluating machine learning models to detect fake URLs using real-world datasets.
+
+Techniques such as Mutual Information for feature selection and Random Forest for classification were explored.
+
+I developed and tested Python-based models using Jupyter Notebook, analyzing metrics like accuracy and F1-score.
+
+IIIT Dharwad provided a collaborative research environment that significantly enhanced my understanding of cybersecurity and machine learning applications.
 ---
 
 ## 📬 Contact

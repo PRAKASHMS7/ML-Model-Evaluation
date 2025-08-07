@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 3. Launch the notebook:
 ```bash
-jupyter notebook MODEL_TRAINING.ipynb
+Google colab  notebook MODEL_TRAINING.ipynb
 ```
 
 ---
@@ -114,6 +114,6 @@ jupyter notebook MODEL_TRAINING.ipynb
 
 For questions or collaboration:
 - 📧 Email: prakashcutn07@gmail.com.com
-- 🌐 GitHub: [Upppara Prakash](https://github.com/your-username)
+- 🌐 GitHub: [Upppara Prakash][(https://github.com/PRAKASHMS7/malicious-url-classifier)]
 
 
